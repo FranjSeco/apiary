@@ -105,7 +105,7 @@ const LinkToHome = styled(LinkTo)`
 `;
 
 const NavList = ({ location }) => {
-  return location.pathname === "/" ? (
+  return location.pathname === "/apiary" ? (
     <List>
       <ListItem>
         <StyledLink to="requests" smooth={true}>
