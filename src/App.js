@@ -30,7 +30,7 @@ function App() {
     <div className="app">
       <Navbar />
       <Switch>
-        <Route path="/apiary" exact>
+        <Route path="/apiary/" exact>
           <Header />
           <Useful />
           <Requests />
