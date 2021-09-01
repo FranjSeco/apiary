@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/apiary/static/css/main.de8388c7.chunk.css",
-    "main.js": "/apiary/static/js/main.e755764e.chunk.js",
-    "main.js.map": "/apiary/static/js/main.e755764e.chunk.js.map",
+    "main.js": "/apiary/static/js/main.f8a66faf.chunk.js",
+    "main.js.map": "/apiary/static/js/main.f8a66faf.chunk.js.map",
     "runtime-main.js": "/apiary/static/js/runtime-main.82b22f66.js",
     "runtime-main.js.map": "/apiary/static/js/runtime-main.82b22f66.js.map",
     "static/js/2.027e82f0.chunk.js": "/apiary/static/js/2.027e82f0.chunk.js",
@@ -13,9 +13,6 @@
     "static/css/main.de8388c7.chunk.css.map": "/apiary/static/css/main.de8388c7.chunk.css.map",
     "static/js/2.027e82f0.chunk.js.LICENSE.txt": "/apiary/static/js/2.027e82f0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/apiary/static/media/SuisseIntl-Book.455a3985.otf",
-    "static/media/circle1.07ba6249.svg": "/apiary/static/media/circle1.07ba6249.svg",
-    "static/media/circle2.cf616972.svg": "/apiary/static/media/circle2.cf616972.svg",
-    "static/media/circle3.9f40a265.svg": "/apiary/static/media/circle3.9f40a265.svg",
     "static/media/header.2edd4382.png": "/apiary/static/media/header.2edd4382.png",
     "static/media/practicum-logo.29786687.svg": "/apiary/static/media/practicum-logo.29786687.svg",
     "static/media/projects-intro.084508fb.png": "/apiary/static/media/projects-intro.084508fb.png"
@@ -24,6 +21,6 @@
     "static/js/runtime-main.82b22f66.js",
     "static/js/2.027e82f0.chunk.js",
     "static/css/main.de8388c7.chunk.css",
-    "static/js/main.e755764e.chunk.js"
+    "static/js/main.f8a66faf.chunk.js"
   ]
 }
